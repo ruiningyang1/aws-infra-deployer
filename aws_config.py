@@ -1,4 +1,4 @@
-# aws_config.py — Last synced: 2026-04-23 12:36:37
+# aws_config.py — Last synced: 2026-04-23 12:37:41
 # Credentials for AWS infrastructure deployment operations.
 # Timestamp is refreshed automatically by the CI pipeline on each run.
 
